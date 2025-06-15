@@ -1,0 +1,19 @@
+Firefox is opened
+User has loaded flipkart url
+User has provided Mobilecontent in serarch tab and has entered 
+2025-05-25 16:13:01 551[main] INFO    com.TestNG.Cross_browsing -Firefox is opened
+2025-05-25 16:13:02 662[main] INFO    com.TestNG.Cross_browsing -User has loaded flipkart url
+2025-05-25 16:13:03 011[main] INFO    com.TestNG.Cross_browsing -User has provided Mobilecontent in serarch tab and has entered 
+2025-05-25 16:13:08 899[main] INFO    com.TestNG.Cross_browsing -User has loaded flipkart url
+2025-05-25 16:13:09 153[main] INFO    com.TestNG.Cross_browsing -User has provided Bluetooth Earphonescontent in serarch tab and has entered 
+2025-05-25 16:13:15 019[main] INFO    com.TestNG.Cross_browsing -User has loaded flipkart url
+2025-05-25 16:13:15 280[main] INFO    com.TestNG.Cross_browsing -User has provided Smart Watchcontent in serarch tab and has entered 
+2025-05-25 16:13:20 939[main] INFO    com.TestNG.Cross_browsing -User has quit browser
+2025-05-25 16:13:25 153[main] INFO    com.TestNG.Cross_browsing -Chrome is opened
+2025-05-25 16:13:26 433[main] INFO    com.TestNG.Cross_browsing -User has loaded flipkart url
+2025-05-25 16:13:28 017[main] INFO    com.TestNG.Cross_browsing -User has provided Mobilecontent in serarch tab and has entered 
+2025-05-25 16:13:34 064[main] INFO    com.TestNG.Cross_browsing -User has loaded flipkart url
+2025-05-25 16:13:36 725[main] INFO    com.TestNG.Cross_browsing -User has provided Bluetooth Earphonescontent in serarch tab and has entered 
+2025-05-25 16:13:42 638[main] INFO    com.TestNG.Cross_browsing -User has loaded flipkart url
+2025-05-25 16:13:43 843[main] INFO    com.TestNG.Cross_browsing -User has provided Smart Watchcontent in serarch tab and has entered 
+2025-05-25 16:13:49 009[main] INFO    com.TestNG.Cross_browsing -User has quit browser
